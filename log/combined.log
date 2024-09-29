@@ -1,0 +1,8 @@
+[36m[1m2024-09-29 01:09:29 info Connected to the database successfully[22m[39m
+[36m[1m2024-09-29 01:09:29 info Server started. Listening on http://localhost:3000[22m[39m
+[36m[1m2024-09-29 01:09:40 info START: Create Job Service[22m[39m
+[31m[1m2024-09-29 01:09:40 error [POST /jobs] Cannot read properties of undefined (reading 'userId')[22m[39m
+[36m[1m2024-09-29 01:10:11 info Connected to the database successfully[22m[39m
+[36m[1m2024-09-29 01:10:11 info Server started. Listening on http://localhost:3000[22m[39m
+[36m[1m2024-09-29 01:10:14 info START: Create Job Service[22m[39m
+[36m[1m2024-09-29 01:10:14 info END: Create Job Service[22m[39m
